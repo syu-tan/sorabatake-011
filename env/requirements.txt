@@ -1,0 +1,21 @@
+# notebook
+jupyterlab
+ipywidgets
+
+# basic
+numpy
+pandas 
+matplotlib
+seaborn
+opencv-python
+imagecodecs
+
+# ml
+scikit-learn
+albumentations
+segmentation_models_pytorch
+
+# geo
+tifffile
+rasterio
+einops

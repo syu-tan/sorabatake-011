@@ -1,0 +1,21 @@
+# data
+*.zip
+*.tif
+sample/*.tar.gz
+sample/train_metadata.csv
+
+# cache
+__pycache__/
+*.pyc
+
+# logs
+src/output/*/*.pth
+src/inference
+
+# model
+src/weights
+src/pretrain
+
+# qgis
+*.qgs
+*.xml
